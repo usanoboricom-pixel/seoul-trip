@@ -3,7 +3,7 @@
 const days = [
   {
     day: "Day 1",
-    date: "2025年6月12日（金）",
+    date: "2026年6月12日（金）",
     events: [
       {
         time: "14:55",
@@ -51,7 +51,7 @@ const days = [
   },
   {
     day: "Day 2",
-    date: "2025年6月13日（土）",
+    date: "2026年6月13日（土）",
     events: [
       {
         time: "09:30",
@@ -87,7 +87,7 @@ const days = [
   },
   {
     day: "Day 3",
-    date: "2025年6月14日（日）",
+    date: "2026年6月14日（日）",
     events: [
       {
         time: "11:00",
@@ -154,7 +154,7 @@ export default function Home() {
           🇰🇷 ソウル旅行 2025
         </h1>
         <p className="text-center text-xs text-zinc-400 mt-0.5">
-          6月12日〜14日 ／ 6人
+          2026年 6月12日〜14日 ／ 6人
         </p>
       </div>
 
