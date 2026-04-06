@@ -151,7 +151,7 @@ export default function Home() {
       {/* Header */}
       <div className="sticky top-0 z-10 bg-black/90 backdrop-blur border-b border-yellow-600/30 px-4 py-4">
         <h1 className="text-xl font-bold text-yellow-400 tracking-widest text-center">
-          🇰🇷 ソウル旅行 2025
+          🇰🇷 ソウル旅行 2026
         </h1>
         <p className="text-center text-xs text-zinc-400 mt-0.5">
           2026年 6月12日〜14日 ／ 6人
